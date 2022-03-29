@@ -1,4 +1,5 @@
 import PIL
+from matplotlib import image
 import os
 
 classes = ["TAT", "MOL", "PIG"];
